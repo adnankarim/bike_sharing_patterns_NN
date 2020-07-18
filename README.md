@@ -1,6 +1,6 @@
-[image1]: ./outputs/TrainingOutputNumbers.png "TrainingOutputNumbers"
-[image2]: ./outputs/TrainingValidationLoss.png "TrainingValidationLoss"
-[image3]: ./outputs/PredictionsCheck.png "PredictionsCheck" 
+[image1]: ./predictions/tandvloss.PNG "TrainingOutputNumbers"
+[image2]: ./predictions/validationing.png "TrainingValidationLoss"
+[image3]: ./predictions/predict.PNG "PredictionsCheck" 
 
 
 # Project Bike Sharing (Overview)
